@@ -1,4 +1,4 @@
-package com.mycompany.l227896_se5b_scd;
+package com.mycompany.Main;
 
 import controller.Authentication;
 import controller.Customer;
@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import view.AuthMenu;
 
-public class L227896_SE5B_SCD {
+public class Main {
 
     public static void main(String[] args) {
         AuthMenu obj = new AuthMenu();
