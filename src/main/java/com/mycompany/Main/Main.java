@@ -8,9 +8,10 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import view.AuthMenu;
 
-public class Main {
-
-    public static void main(String[] args) {
+public class Main 
+{
+    public static void main(String[] args) 
+    {
         AuthMenu obj = new AuthMenu();
     }
 }
